@@ -7,11 +7,11 @@ I started this website in the hope of educating the common person about Linux, s
 
 Feel free to contribute. Here's more info on how you can do that:
 1. [Install jekyll](https://jekyllrb.com/docs/installation/) on your system.
-2. Clone this repo.
-3. Create a new branch.
-4. Make your changes.
-5. Run `bundle exec jekyll serve`
-6. Open a browser to http://localhost:4000 to test/view your changes.
-7. If all looks good, please run the following: `JEKYLL_ENV=production bundle exec jekyll build`
-8. Stage your changes, commit, and push to your repo.
-8. Submit a pull request.
+2. Fork this repo.
+3. Clone your repo.
+4. Create a new branch.
+5. Make your changes.
+6. Run `bundle exec jekyll serve`
+7. Open a browser to http://localhost:4000 to test/view your changes.
+8. If all looks good -- stage your changes, commit, and push to your repo.
+9. Submit a pull request.
