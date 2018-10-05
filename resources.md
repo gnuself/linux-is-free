@@ -21,4 +21,4 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [mint]:       https://www.linuxmint.com
 [manjaro]:    https://manjaro.org
 [debian]:     https://www.debian.org
-[elementary]:           https://elementary.io
+[elementary]: https://elementary.io
