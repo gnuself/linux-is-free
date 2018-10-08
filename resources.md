@@ -5,6 +5,7 @@ permalink: /resources/
 ---
 Hi, here's some good resources to learn more about Linux that you might find helpful:
 
+### Linux distributions
 [Distrowatch - Helpful for finding a Linux distribution][distwatch]  
 [Ubuntu - A widely used, beginner friendly distro][ubuntu]  
 [Arch Linux - Wiki][arch]  
@@ -14,6 +15,9 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [Debian - The Universal Operating System][debian]  
 [elementary OS - A fast and open replacement for Windows and macOS][elementary]
 
+### Linux courses
+[Introduction to Linux - free course at edX][linux_course_edx]
+
 [distwatch]:  https://www.distrowatch.com
 [ubuntu]:     https://www.ubuntu.com
 [arch]:       https://wiki.archlinux.org
@@ -22,3 +26,5 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [manjaro]:    https://manjaro.org
 [debian]:     https://www.debian.org
 [elementary]: https://elementary.io
+[linux_course_edx]: https://www.edx.org/course/introduction-to-linux 
+
