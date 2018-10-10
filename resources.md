@@ -21,6 +21,7 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 
 ### Blogs/Articles
 [Distrowatch - Helpful for finding a Linux distribution][distwatch]  
+[Distrochooser - Minimal interactive test to find Linux distro that suits you][distrochooser]
 
 [distwatch]:  https://www.distrowatch.com
 [ubuntu]:     https://www.ubuntu.com
@@ -33,3 +34,4 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [linux_course_edx]: https://www.edx.org/course/introduction-to-linux
 [centos]: https://www.centos.org/
 [kali]: https://www.kali.org/
+[distrochooser]: https://distrochooser.de/en
