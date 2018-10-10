@@ -19,6 +19,9 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 ### Linux courses
 [Introduction to Linux - free course at edX][linux_course_edx]
 
+### Learn with Fun
+[Learn with a Game:     http://overthewire.org/wargames/bandit/](http://overthewire.org/wargames/bandit/)
+
 ### Blogs/Articles
 [Distrowatch - Helpful for finding a Linux distribution][distwatch]  
 
