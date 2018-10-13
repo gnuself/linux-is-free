@@ -13,8 +13,8 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [Fedora Workstation - the best desktop OS for software developers][fedora]  
 [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution][kali]  
 [Linux Mint - one of the most popular desktop Linux distributions][mint]  
-[Manjaro - Professional and user-friendly Linux at its best][manjaro]
-[ParrotSec - The best choice for security experts, developers and crypto-addicted people][parrot]     
+[Manjaro - Professional and user-friendly Linux at its best][manjaro]  
+[ParrotSec - The best choice for security experts, developers and crypto-addicted people][parrot]  
 [Ubuntu - A widely used, beginner friendly distro][ubuntu]  
 
 ### Linux courses
