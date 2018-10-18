@@ -15,7 +15,7 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [Linux Mint - one of the most popular desktop Linux distributions][mint]  
 [Manjaro - Professional and user-friendly Linux at its best][manjaro]  
 [ParrotSec - The best choice for security experts, developers and crypto-addicted people][parrot]  
-[Tails - The amnesic incognito live system][tails]
+[Tails - The amnesic incognito live system][tails]  
 [Ubuntu - A widely used, beginner friendly distro][ubuntu]  
 
 ### Linux courses
