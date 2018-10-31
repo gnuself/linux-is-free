@@ -16,6 +16,7 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [lubuntu - lightweight, fast, easier][lubuntu]  
 [Manjaro - Professional and user-friendly Linux at its best][manjaro]  
 [ParrotSec - The best choice for security experts, developers and crypto-addicted people][parrot]  
+[Qubes OS - A reasonably secure operating system][qubes]  
 [Ubuntu - A widely used, beginner friendly distro][ubuntu]  
 
 ### Linux courses
@@ -42,3 +43,4 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [kali]: https://www.kali.org/
 [distrochooser]: https://distrochooser.de/en
 [parrot]: https://parrotsec.org/
+[qubes]: https://www.qubes-os.org/
