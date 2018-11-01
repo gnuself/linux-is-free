@@ -21,7 +21,8 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [Ubuntu - A widely used, beginner friendly distro][ubuntu]  
 
 ### Linux courses
-[Introduction to Linux - free course at edX][linux_course_edx]
+[Introduction to Linux - free course at edX][linux_course_edx]  
+[Linux Journey - Learn the ways of Linux-fu, for free][linux_journey]  
 
 ### Learn with Fun
 [Learn with a Game:     http://overthewire.org/wargames/bandit/](http://overthewire.org/wargames/bandit/)
@@ -46,3 +47,4 @@ Hi, here's some good resources to learn more about Linux that you might find hel
 [parrot]: https://parrotsec.org/
 [tails]: https://tails.boum.org/
 [qubes]: https://www.qubes-os.org/
+[linux_journey]: https://linuxjourney.com/
